@@ -15,3 +15,5 @@ Gitignore在线生成工具 → https://michaelliao.github.io/gitignore-online-g
 2. 使用英文文件名；(Use English file name)
 
 3. 扩展名为`.txt`或`.md`。(Refer .txt or .md)
+
+add test.file
